@@ -14,3 +14,7 @@ def poke_api():
 
 def estaesminuevafuncion():
     print("debo verla en el servidor2")
+
+
+estaesminuevafuncion()
+poke_api()
