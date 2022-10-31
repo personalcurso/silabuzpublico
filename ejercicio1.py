@@ -6,6 +6,6 @@ def funcion_rama_angel():
 
 
 def funcion_para_pushh():
-    print("Se creo funcion en master pushhh!")
+    print("Se creo funcion en master pushhh! alterado....")
 
 #subiendo al servidor
