@@ -15,8 +15,11 @@ def poke_api():
 def estaesminuevafuncion():
     print("debo verla en el servidor2")
 
+def funcion_ejemplo():
+    print("sube ok!")
 
 estaesminuevafuncion()
 poke_api()
 funcion_rama_angel()
 funcion_principal()
+funcion_ejemplo()
