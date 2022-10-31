@@ -13,4 +13,4 @@ def poke_api():
     print("conexion para la pokedex")
 
 def estaesminuevafuncion():
-    print("debo verla en el servidor")
+    print("debo verla en el servidor2")
