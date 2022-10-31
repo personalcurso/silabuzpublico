@@ -6,4 +6,11 @@ def funcion_rama_angel():
 
     
 def funcion_para_pushh():
-    print("Se creo funcion en master pushhh!")
+    print("Se creo funcion en master pushhh! alterado....")
+
+#subiendo al servidor
+def poke_api():
+    print("conexion para la pokedex")
+
+def estaesminuevafuncion():
+    print("debo verla en el servidor2")
